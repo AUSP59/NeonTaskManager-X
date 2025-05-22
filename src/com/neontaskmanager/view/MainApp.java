@@ -1,0 +1,1 @@
+public class MainApp extends Application { /* full code here */ }
